@@ -1,4 +1,4 @@
-# vim config
+" vim config
 
 
 filetype on
